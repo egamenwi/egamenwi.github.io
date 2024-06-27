@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://egamenwi.github.io/sitemap
+Sitemap: https://egamenwi.github.io/app/sitemap
+Sitemap: https://egamenwi.github.io/assets/sitemap
+Sitemap: https://egamenwi.github.io/css/sitemap
+Sitemap: https://egamenwi.github.io/includes/sitemap
+Sitemap: https://egamenwi.github.io/item/sitemap
+Sitemap: https://egamenwi.github.io/src/sitemap
